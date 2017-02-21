@@ -1,5 +1,3 @@
 w02-170221-13-PS-Lab2
 w02-170221-10-LR-About: Introduction to OS, From: Lecturer
 w02-170221-15-DS-Discuss encrypt and decrypt
-w02-170223-15-LR-About: Introduction to OS, From: Lecturer
-
