@@ -6,3 +6,6 @@ w06-170411-17-PS-Lab6
 w06-170411-17-PS-Lab6
 w06-170412-17-PS-Lab6
 w06-170412-17-PS-Lab6
+w06-170413-10-LR-About: Thread, From: Lecturer
+w06-170413-10-LR-About: Thread, From: Lecturer
+w06-170413-11-LR-About: Buffer, From: Lecturer
